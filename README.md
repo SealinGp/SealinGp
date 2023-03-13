@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning solidity
 - 💞️ I’m looking for remote working opportunity
 - 📫 How to reach me sealingp@163.com
-- my resume [click here]([https://rxresu.me/r/hMS1qTa8](https://docs.google.com/document/d/1oDJUvVGcPCOD6mZWhwNpehxVcrBWaKvEPNaFxxHRNQw/edit#heading=h.rd3fgwtzuo1e))
+- my resume [click here](https://docs.google.com/document/d/1oDJUvVGcPCOD6mZWhwNpehxVcrBWaKvEPNaFxxHRNQw/edit#heading=h.rd3fgwtzuo1e)
 
 <!---
 SealinGp/SealinGp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
